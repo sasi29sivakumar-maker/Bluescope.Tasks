@@ -18,3 +18,4 @@ To build a coding portfolio for future reference
 
 Daily Updates: 
 21-01-2026 : BillDivision Task
+22-01-2026 : Collection Tasks using Map,set,List
