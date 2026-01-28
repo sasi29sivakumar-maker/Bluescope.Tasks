@@ -32,7 +32,7 @@ public class SecondLargestSum {
             return second;
         }
 
-        // Calculates sum of digits using % and 
+        // Calculates sum of digits using % and /
         static int calculateDigitSum(int num) {
             int sum = 0;
             num = Math.abs(num); 
