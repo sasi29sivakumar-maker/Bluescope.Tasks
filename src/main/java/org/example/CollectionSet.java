@@ -9,6 +9,7 @@ public class CollectionSet {
         set.add("sk");
         set.add("sasi"); // duplicates not allowed in set
         set.add("kumar");
+        set.add("abc");
 
         for (String x : set){
             System.out.println(x);

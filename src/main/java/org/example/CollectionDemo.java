@@ -9,10 +9,10 @@ public class CollectionDemo{
         accnumbers.add(102);
         accnumbers.add(102); // List allow duplicates
         accnumbers.add(104);
+        accnumbers.add(104);
 
         for (Integer x : accnumbers) {
             System.out.println(x);
         }
-
     }
 }
