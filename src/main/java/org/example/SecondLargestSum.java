@@ -35,10 +35,10 @@ public class SecondLargestSum {
         // Calculates sum of digits using % and /
         static int calculateDigitSum(int num) {
             int sum = 0;
-            num = Math.abs(num); // Handle negative numbers
+            num = Math.abs(num); 
             while (num > 0) {
-                sum += num % 10;  // Get last digit
-                num /= 10;        // Remove last digit
+                sum += num % 10;  
+                num /= 10;        
             }
             return sum;
         }
