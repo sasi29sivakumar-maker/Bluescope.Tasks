@@ -22,3 +22,4 @@ Daily Updates:
 24-01-2026 : ArmStrongsum
 26-01-2026 : Pallindrome sum
 28-01-2026 : Second largest number & Sum of its Digits
+30-01-2026 : Datatype
