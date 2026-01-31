@@ -19,3 +19,7 @@ To build a coding portfolio for future reference
 Daily Updates: 
 21-01-2026 : BillDivision Task
 22-01-2026 : Collection Tasks using Map,set,List
+24-01-2026 : ArmStrongsum
+26-01-2026 : Pallindrome sum
+28-01-2026 : Second largest number & Sum of its Digits
+30-01-2026 : Datatype
