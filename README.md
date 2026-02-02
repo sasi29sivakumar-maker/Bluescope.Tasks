@@ -1,12 +1,10 @@
 Bluescope Tasks:
 
-
 This repository contains my daily Java practice tasks, problem-solving programs, and learning notes. It is mainly used to improve my coding skills and keep track of what I learn every day.
 
 Purpose of this repository:
 
 To upload and store daily Java tasks
-
 
 To keep a history of solved problems
 
