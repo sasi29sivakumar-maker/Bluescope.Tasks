@@ -23,4 +23,4 @@ Daily Updates:
 30-01-2026 : Datatype
 31-01-2026 : Sum using user input(scanner) 
 01-02-2026 : Sum using a Method
-02-02-2026 :
+02-02-2026 : Remove Duplicates problem
