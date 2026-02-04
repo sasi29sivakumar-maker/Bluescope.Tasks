@@ -42,6 +42,6 @@ public class SecondLargestSum {
             }
             return sum;
         }
-    }
+}
 
 
