@@ -25,3 +25,4 @@ Daily Updates:
 01-02-2026 : Sum using a Method
 02-02-2026 : Remove Duplicates problem
 03-02-2026 : Remove DuplicateCard 
+04-02-2026 : Practiced If Else
