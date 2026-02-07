@@ -27,3 +27,4 @@ Daily Updates:
 03-02-2026 : Remove DuplicateCard 
 04-02-2026 : Practiced If Else
 05-02-2026 : Practiced Exception 
+06-02-2026 : Practiced Min & Max
